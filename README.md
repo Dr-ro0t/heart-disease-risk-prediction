@@ -8,6 +8,7 @@ The system estimates the probability of heart disease and provides rule-based me
 ---
 
 ## Project Features
+![Graph](assets/gui.png)
 - Logistic Regression model for heart disease classification
 - Probability-based risk prediction
 - Risk level categorization (Low / Medium / High)
@@ -47,6 +48,7 @@ Based on the predicted probability:
 ---
 
 ## Explainability
+![Graph](assets/data_base.png)
 The system provides human-readable explanations based on medical rules, such as:
 - High blood pressure
 - Elevated blood glucose
