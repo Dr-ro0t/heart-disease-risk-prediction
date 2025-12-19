@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```
 ### 2️⃣ Run the application
 ```bash
-python main.py
+python project/main.py
 ```
 
 ## 📁 Project Structure
