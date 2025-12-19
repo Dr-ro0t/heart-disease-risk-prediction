@@ -88,8 +88,16 @@ python project/main.py
 ```
 heart-disease-risk-prediction/
 │
-├── Heart_Disease_Emergency_Final.csv
-├── main.py
+├── assets/
+│ ├── gui.png # GUI screenshot
+│ └── data_base.png # Dataset preview image
+│
+├── project/
+│ ├── Heart_Disease_Emergency.csv # Our data_base
+│ └── main.py # Application entry point
+│
+├── LICENSE
 ├── README.md
-└── LICENSE
+└── requirements.txt
+
 ```
