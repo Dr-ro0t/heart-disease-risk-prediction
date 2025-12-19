@@ -84,10 +84,12 @@ pip install pandas numpy scikit-learn
 python main.py
 ```
 
-### 📁 Project Structure
+## 📁 Project Structure
+```
 heart-disease-risk-prediction/
 │
 ├── Heart_Disease_Emergency_Final.csv
 ├── main.py
 ├── README.md
 └── LICENSE
+```
