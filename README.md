@@ -77,7 +77,7 @@ This improves transparency and trust in the model predictions.
 
 ### 1️⃣ Install dependencies
 ```bash
-pip install pandas numpy scikit-learn
+pip install -r requirements.txt
 ```
 ### 2️⃣ Run the application
 ```bash
