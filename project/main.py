@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 
 # =========================
-# Load & Train Model
+# Read the data and train our Model
 # =========================
 data = pd.read_csv("Heart_Disease_Emergency.csv")
 
@@ -78,7 +78,7 @@ def predict_risk():
 
 
 # =========================
-# Tkinter UI
+# GUI
 # =========================
 root = tk.Tk()
 root.title("Emergency Heart Risk Assessment System")
