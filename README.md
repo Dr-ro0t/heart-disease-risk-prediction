@@ -78,3 +78,16 @@ This improves transparency and trust in the model predictions.
 ### 1️⃣ Install dependencies
 ```bash
 pip install pandas numpy scikit-learn
+```
+### 2️⃣ Run the application
+```bash
+python main.py
+```
+
+### 📁 Project Structure
+heart-disease-risk-prediction/
+│
+├── Heart_Disease_Emergency_Final.csv
+├── main.py
+├── README.md
+└── LICENSE
